@@ -93,3 +93,5 @@ details = extract_details(extracted_text)
 # Print the extracted details
 for key, value in details.items():
     print(f"{key}: {value}")
+
+print("FGuc you")
